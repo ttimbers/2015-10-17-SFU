@@ -4,13 +4,13 @@ title: Programming with Python
 subtitle: Creating Functions
 minutes: 30
 ---
-> ## Learning Objectives {.objectives}
->
-> *   Define a function that takes parameters.
-> *   Return a value from a function.
-> *   Test and debug a function.
-> *   Set default values for function parameters.
-> *   Explain why we should divide programs into small, single-purpose functions.
+## Learning Objectives 
+
+*   Define a function that takes parameters.
+*   Return a value from a function.
+*   Test and debug a function.
+*   Set default values for function parameters.
+*   Explain why we should divide programs into small, single-purpose functions.
 
 
 Let's start by defining a function `fahr_to_kelvin` that converts temperatures from Fahrenheit to Kelvin:
