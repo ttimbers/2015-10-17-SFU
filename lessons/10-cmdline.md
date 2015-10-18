@@ -349,7 +349,7 @@ Let's experiment in another script called `count-stdin.py`:
 $ cat count-stdin.py
 ~~~
 
-~~~ {.python}
+~~~ 
 import sys
 
 count = 0
